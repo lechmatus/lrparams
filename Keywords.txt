@@ -1,0 +1,467 @@
+Etykiety
+	Cywilizacja
+		Architektura
+			Arch. drewniana
+			Arch. sakralna
+				Cerkiew
+				Kapliczka
+				Kościół
+				Krzyż
+			Arch. użytkowa
+			Bizantyjska
+			Gotyk
+			Klasycyzm
+			Latarnia morska
+			Most
+				Most drogowy
+				Most kolejowy
+				Moste drewniany
+				Mostek
+			Neogotyk
+			Pałac
+			Pomnik
+			Przedwojenna
+			Renesans
+			Romanska
+			Ruiny
+			Skansen
+			Starożytność
+			Współczesna
+			Zamek
+		Kształtowanie Przyrody
+			Zieleń
+				Ogród
+					{Ogrody}
+					Arboretum
+					Ogród Botaniczny
+					Park
+						{Parki}
+			Zwierzyniec
+				Budki- karmniki
+				Rezerwat pokazowy
+				Zoo
+		Sztuka
+		Technika
+			Kolej
+				Nasyp
+				Pociąg
+					Lokomotywa
+						Parowóz
+					Wagon
+				Stacja
+				Tory
+					{Szyny}
+			Samochód
+			Samolot
+			Transport wodny
+				Łódź
+				Statek
+	Człowiek
+		{Ludzie}
+		Portret
+		Rodzina
+			Lech
+			Majka
+		Znajomy
+			{Znajomi}
+			Justyna Lechman
+	Krajobraz
+		{Krajobrazy}
+		Pora
+			Dnia
+				Dzień
+				Noc
+				Wieczór
+			Roku
+				Jesień
+				Lato
+				Wiosna
+				Zima
+		Środowisko
+			{Środowiska}
+			Góry
+				Las bukowy
+				Strumien
+			Łąka
+				{Łąki}
+			Las
+				Droga w lesie
+			Miasto
+			Nad wodą
+				Nad morzem
+					Klif
+					Plaża
+				Nad wodą słodką
+					Brzeg
+					Szuwary
+					Wał
+			Wieś
+			Woda
+				Bagno
+				Jezioro
+				Morze
+					Atlantyk
+					Bałtyk
+					Jonskie
+					Śródziemne
+				Rozlewisko
+				Rzeka
+					Duża rzeka
+						Wisła
+					Rzeczka
+					Strumień
+				Staw
+					Rybny
+					W parku
+		Zjawisko
+			{Zjawiska}
+			Chmury
+			Deszcz
+			Lód
+			Mgła
+			Śnieg
+			Tęcza
+			Zachód
+	Laboratorium
+		Chwilowo wybrane
+		Obiektyw
+			MIN:24-105
+			MIN:50
+			SAL:16-50
+			SAL:70-300/G
+			TAM:80-210
+		Testy
+			Korekcja obiektywu
+				Minolta 24-105
+			Kurz na lustrze
+		Zmienione
+			DoNadruku
+	Miejsce
+		Grecja
+			Itaka
+			Kefalonia
+			Zakynthos
+		Hiszpania
+			Gran Canaria
+			Teneryfa
+		Polska
+			Otylin i okolice
+			Polskie góry
+				Beskid Niski
+				Beskid Sądecki
+			Puszcza Białowieska
+				Siemianówka
+			Puszcza Kampinoska
+				{Kampinos}
+			Warszawa
+				Białołęka
+					Okolice brzegu Wisły
+						Kolektor Czajki
+							{Czajka}
+						Wał
+				Łazienki
+				Morskie Oko
+				Powsin
+			Zalew Zegrzyński
+				Arciechów
+	Przyroda
+		Grzyb
+			{Grzyby}
+			Huba
+		Roślina
+			{Rośliny}
+			Drzewo
+				{Drzewa}
+				Bazie
+				Gałęzie
+				Gatunek drzewa
+					{Gatunki}
+					Araukaria
+					Brzoza
+					Buk
+					Cis pospolity
+					Dąb
+						Dąb czerwony
+					Głóg
+					Kasztan jadalny
+					Kasztanowiec żółty
+					Kasztanowiec zwyczajny
+					Klon
+						Klon diabelski
+						Klon ostroząbkowy
+						Klon palmowy
+						Klon strzępiastokory
+					Leszczyna
+					Lipa
+					Magnolia
+					Modrzew
+					Olsza
+					Platan
+					Sosna
+					Wierzba
+				Liście
+				Owoce drzew
+				Ślady bobra
+				Ślady dzięcioła
+				Szyszki
+			Krzew
+				{Krzewy}
+				Bez czarny
+				Bez koralowy
+				Kalina
+					Kalina herbaciana
+					Kalina koralowa
+					Kalina szorstkowłosa
+				Oczar wirginijski
+				Róża dzika
+				Tarnina
+				Trzmielina pospolita
+			Kwiaty
+			Zielna
+				Barwinek pospolity
+				Berberys pospolity
+				Bluszczyk kurdybanek
+				Bniec biały
+				Bugenwilla
+				Cieciorka pstra
+				Czosnek niedźwiedzi
+				Dąbrówka rozłogowa
+				Dalia
+				Dziewanna drobnokwiatowa
+				Fiołek leśny
+				Gorczycznik pospolity
+				Groszek skrzydlasty
+				Gwiazdnica wielkokwiatowa
+				Kaczyniec błotny
+				Karpobrot
+				Ketmia róża chinska
+				Kokorycz
+				Kowniatek morski
+				Kurzyślad
+				Litodora
+				Lucerna sierpowata
+				Łuskiewnik różowy
+				Mak
+				Mikołajek płaskolistny
+				Miodunka ćma
+				Mirt
+				Mniszek pospolity
+				Nawłoć kanadyjska
+				Nostrzyk biały
+				Nostrzyk żółty
+				Oleander pospolity
+				Orszelina szara
+				Oset
+					{Osty}
+				Ostrokrzew
+				Ostrożen polny
+				Pałka szerokolistna
+				Paproć
+					{Paprocie}
+					Paprotka zwyczajna
+				Pierwiosnek lekarski
+				Pierwiosnek wyniosły
+				Podbiał pospolity
+				Przylaszczka pospolita
+				Rukwiel nadmorska
+				Rumianek poslpolity
+				Rzeżucha łąkowa
+				Sarcopoterium spinosum
+				Scolymus hispanicus
+				Skrzyp
+				Śledziennica skrętnolistna
+				Słonecznik
+				Szuwary
+				Thymus capitatus
+				Trawa
+					{Trawy}
+				Wawrzynek wilczełyko
+				Wiesiołek dwuletni
+				Wrotycz pospolity
+				Zawilec gajowy
+				Zawilec żółty
+				Zboże
+				Złoć żółta
+			Zimowe
+		Zwierzę
+			{Zwierzęta}
+			_płeć
+				Samica
+				Samiec
+			_wiek
+				Dorosły
+				Dziecko
+				Młodzież
+			Gad
+				Gekon
+				Padalec
+				Zaskroniec
+				Żółw morski
+			Meduza
+				{Meduzy}
+			Mięczak
+				{Mięczaki}
+				Ślimaki
+					Winniczek
+			Owad
+				{Owady}
+				Biedronka
+				Gąsienica
+					{Gąsienice}
+				Motyl
+					{Motyle}
+					Listkowiec cytrynek
+					Paż królowej
+					Rusałka drzewoszek
+					Rusałka pawik
+					Rusałka pokrzywnik
+					Rusałka żałobnik
+					Strzępotek ruczajnik
+					Zorzynek rzeżuchowiec
+				Trzmiel
+			Pajęczak
+				{Pajęczaki}
+				Pajęczyny
+			Płaz
+				{Płazy}
+				Ropucha szara
+				Żaba
+					Żaba moczarowa
+			Ptak
+				{Ptaki}
+				Cecha ptaka
+					W locie
+						Klucz
+					Z obrączką
+				Gatunek ptaka
+					Bażant
+					Białorzytka
+					Bielaczek
+					Bielik
+					Błotniak stawowy
+					Bocian biały
+					Bogatka
+					Brodziec piskliwy
+					Czapla biała
+					Czapla siwa
+					Czarnogłówka
+					Czeczotka
+					Czyż
+					Dymówka
+					Dzięcioł
+						Dzięcioł czarny
+						Dzięcioł duży
+						Dzięcioł średni
+						Dzięcioł zielony
+					Dzwoniec
+					Gągoł
+					Gawron
+					Gęś
+						Białoczelna
+						Gęgawa
+					Gil
+					Gołąb
+					Grubodziób
+					Grzywacz
+					Jer
+					Jerzyk
+					Kaczka
+						Czernica
+						Głowienka
+						Krzyżówka
+						Mandarynka
+						Ogorzałka
+						Płaskonos
+						Sołtys
+					Kapturka
+					Kawka
+					Kormoran
+					Kos
+					Kowalik
+					Kruk
+					Kwiczoł
+					Łabędź niemy
+					Łyska
+					Mazurek
+					Mewa
+						Mewa białogłowa
+						Mewa siodłata
+						Mewa siwa
+						Mewa srebrzysta
+						Śmieszka
+					Modraszka
+					Mysikrólik
+					Myszołów
+					Niezidentyfikowany
+					Nurogęś
+					Oknówka
+					Orlik krzykliwy
+					Ostrygojad
+					Papuga
+						Falista
+					Paw
+					Pełzacz
+					Perkoz dwuczuby
+					Perkozek
+					Pierwiosnek
+					Pleszka
+					Pliszka siwa
+					Pliszka żółta
+					Pustułka
+					Raniuszek
+					Rudzik
+					Sierpówka
+					Sieweczka rzeczna
+					Siewnica
+					Skowronek
+					Słowik rdzawy
+					Słowik szary
+					Sójka
+					Sosnówka
+					Śpiewak
+					Sroka
+					Świergotek
+					Szczygieł
+					Szlamnik
+					Szpak
+					Trznadel
+					Wilga
+					Wróbel
+					Wrona siwa
+						{Wrona}
+					Zaganiacz
+					Zięba
+					Żuraw
+				Gniazdo
+				Ślady ptaków
+			Skorupiak
+				{Skorupiaki}
+				Krab
+			Sssak
+				{Sssaki}
+				Gatunek ssaka
+					Bóbr
+					Dzik
+					Jeleń
+					Koń
+						{Konie}
+						Tarpan
+							{Konik Polski}
+					Kot
+					Kuna leśna
+					Lis
+					Łoś
+					Mysz polna
+					Pies
+					Ryś
+					Sarna
+					Szczur
+					Wiewiórka
+					Wilk
+					Żubr
+					Żubroń
+	Wydarzenie
+		{Wydarzenia}
+		Podróż
+		Ślub
+		Wesele
